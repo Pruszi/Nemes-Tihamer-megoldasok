@@ -1,4 +1,4 @@
-# Nemes Tihamér/Zsakó László Nemzetközi Programozási Verseny dokumentált megoldásai
+# Nemes Tihamér/Zsakó László Nemzetközi Programozási Verseny dokumentált megoldásaim
 Nem vagyok a legjobb programozó, de shit talkolni tudok, talán magyarázni is. Nem ígérem, hogy ez tökéletes lesz.
 Also, ez az első repóm.
 
