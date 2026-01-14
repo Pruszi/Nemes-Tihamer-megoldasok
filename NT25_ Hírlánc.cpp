@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-//SEGÍTSÉGGEL, a tavalyi megoldásokból inspirálódva, hogy megértsem a feladatot,
-//és megértsem a mintát. 
 const int N=2e5+1;
 
 struct Graph {
