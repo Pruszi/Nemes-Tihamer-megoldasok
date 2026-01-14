@@ -89,6 +89,11 @@ int megold=0, legtobb=0;
 	}
 	cout << megold << " " << legtobb;
 ```
+# Plusz gondolatok, amiket ChatGPT ajánlott, miután megkérdeztem, mit gondol a fentiekről:
+„Minden csúcs értékét legfeljebb egyszer számoljuk ki, ezért az algoritmus időkomplexitása O(N), memóriaigénye O(N).” (látható, amikor a legelején megnézzük, -1-e a csúcs hossza, hogy nem számolunk kétszer. Lehetne elegánsabban, de így is jó.)
 
+„A parent tömb a DFS-fa visszafelé bejárásához kell, hogy a kör csúcsait végig tudjuk járni.” Mivel folyamatosan hivatkozunk rá, amikor a köröket számolgatjuk.
+
+Rekurzióról: „A DFS mélysége legfeljebb N, ami a feladat korlátain belül biztonságos.”
 
 
