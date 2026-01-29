@@ -8,5 +8,6 @@ int main() {
         int a; cin >> a;
         cnt+=a;
     }
-    cout << (cnt-k+1)*(cnt-k+2)/2;
+    if (cnt<k) cout << 0;
+    else cout << ((cnt-k+1)*(cnt-k+2))/2;
 }
